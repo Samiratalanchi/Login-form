@@ -44,5 +44,50 @@ body {
     background-blend-mode:lighten;
     border: 2px solid rgba(255,255,255,0.35);
     border-radius: 30px;
-    
+}
+#header {
+    color: white;
+    margin-top: 80px;
+    margin-left: 120px;
+}
+.frm {
+    display: block;
+    width: 250px;
+    height: 30px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+#le {
+    color: white;
+    margin-top: 80px;
+}
+#lp {
+    color: white;
+    margin-top: 40px;
+}
+#bs {
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    font-size: 15px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 60px;
+}
+#lfp {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#ln {
+    float: left;
+    color: white;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+a {
+    color: orange;
+}
+#ie, #ip {
+    font-size: 15px;
 }
